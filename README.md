@@ -1,2 +1,2 @@
 # Linux-Patching-on-AWS-EC2-Real-World-Production-Task
-Performed the Linux Patching task of the production level on Aws Ec2
+Learned how to patch and update your Linux server the right way using real AWS EC2 instances.
